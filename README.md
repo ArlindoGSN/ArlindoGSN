@@ -4,4 +4,3 @@
 - 📫 Contate-me no email: netonery06@gmail.com
 - 😄 pronomes: ele/dele
 - ⚡ Fun fact: Sabia que nos respiramos milhões de esporos todos os dias.
--
