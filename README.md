@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Estudando: JavaSript, PHP e MySQL<br> 📓 Eu sei:  HTML e CSS<br>📫 Contate-me no email: netonery06@gmail.com<br>😄 pronomes: ele/dele</p>
+<p align="left">🌱 Estudando: JavaSript, Node.JS, React.JS e MySQL  <br> 📓 Eu sei:  HTML e CSS<br>📫 Contate-me no email: netonery06@gmail.com<br>😄 pronomes: ele/dele</p>
 
 ###
 
