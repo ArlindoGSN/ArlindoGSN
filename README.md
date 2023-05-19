@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Estudando: JavaSript, Node.JS, React.JS e MySQL  <br> 📓 Eu sei:  HTML e CSS<br>📫 Contate-me no email: netonery06@gmail.com<br>😄 pronomes: ele/dele</p>
+<p align="left">🌱 Estudando: JavaSript, Node.JS, React.JS e MySQL<br> 📓 Eu sei:  HTML e CSS<br>📫 Contate-me no email: netonery06@gmail.com<br>😄 pronomes: ele/dele</p>
 
 ###
 
@@ -18,5 +18,13 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ArlindoGSN/ArlindoGSN/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/12171132788">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
