@@ -1,4 +1,4 @@
-<h2 align="left">Olá,👋 Eu sou Arlindo Neto um Desenvolvedor Full-Stack.</h2>
+<h2 align="left">Olá,👋 Eu sou Arlindo Neto um Desenvolvedor Back-End.</h2>
 
 ###
 
